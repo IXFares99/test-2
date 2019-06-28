@@ -1,10 +1,10 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("Scrpit By iyoshi");
+console.log("Scrpit By dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("594235011302031363")
+let channel =     client.channels.get("594235011281059841")
 setInterval(function() {
 channel.send(iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi iyoshi);
 }, 10)
