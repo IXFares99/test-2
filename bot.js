@@ -1,13 +1,14 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("Scrpit By Dream");
+console.log("Scrpit By iyoshi");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("589421447974486047")
+let channel =     client.channels.get("594235011302031363")
 setInterval(function() {
-channel.send(`5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara 5ara ara 5arav 5ara 5ara5ara ara 5arav 5ara 5ara5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara v 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara 5ara`);
-}, 30)
+channel.send( Shanks Shanks Shanks Shanks ShanksShanksShanksShanksShanksShanksShanksShanksShanks);
+}, 100.4)
 })
 
 client.login(process.env.BOT_TOKEN);
+```
